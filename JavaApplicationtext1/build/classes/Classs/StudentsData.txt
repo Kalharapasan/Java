@@ -1,0 +1,10 @@
+
+001,Kalhara,2001-01-20,2021-04-05,No 180 Dolakanda,0781927370,Software Engineering
+002,Avishka,2001-04-07,2021-04-30,Ampara,0254865935,Networking
+003,Kamal,2001-04-17,2021-04-30,Ampara,0772896435,Networking
+004,Kumara,2001-02-25,2021-04-30,Galla,0712596789,Networking
+005,Samitha,2001-01-22,2021-04-30,Anuradapura,0772548695,Software Engineering
+006,Sagara,2001-05-25,2021-04-30,Kolaba,07725893489,Software Engineering
+007,Susanth,2000-04-04,2021-04-09,Sadunpura,0715561086,computer Science
+008,Mashesh,2000-07-23,2021-04-09,Dehiaththakandiya,0715567831,Cyber Security
+009,Amara,2001-04-16,2021-04-17,Nugegoda,0785496583,Cyber Security
